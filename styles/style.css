@@ -112,7 +112,6 @@
     text-transform: uppercase;
     color: rgb(255 255 255);
     z-index: 2;
-
 }
 
 .cover__description-text {
@@ -157,7 +156,6 @@
     height: 563px;
     width: 334px;  
 }
-
 
 .card {
     position: relative;
